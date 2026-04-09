@@ -47,7 +47,7 @@ export default function Home() {
           </a>
 
           <a
-            href="https://github.com/Himanshu-29-techject"
+            href="https://github.com/Himanshu-29-tech"
             target="_blank"
             className="bg-gray-800 px-5 py-2 rounded hover:bg-gray-700"
           >
